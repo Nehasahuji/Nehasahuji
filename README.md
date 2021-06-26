@@ -1,5 +1,5 @@
-### 👋 Hello, I'm Neha Sahu
-👀 I'm interested in Full Stack Web-Development.
+ 👋 Hello, I'm Neha Sahu
+👀 I'm interested in Java Development.
 🔭 I’m currently working on Java
 🌱 I’m currently learning angular
 👯 I’m looking to collaborate on cpp , Java , Html ,Css ,Angular ,Spring Boot,Jenkins
