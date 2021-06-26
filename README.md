@@ -8,7 +8,7 @@
  
  👯 I’m looking to collaborate on cpp , Java , Html ,Css ,Angular ,Spring Boot ,Jenkins
 
-  📫 Reach me : [Here](www.linkedin.com/in/nehasahu24)
+  📫 Reach me : [Here](www.linkedin.com/in/nehasahu24/)
   
   ## 👩‍🔧 My Works
   [![Neha Sahu 📊 Github Stats](https://github-readme-stats.vercel.app/api?username=NehaSahuji&show_icons=true)](https://github.com/NehaSahuji)
@@ -27,7 +27,7 @@
 ![Skill](https://img.shields.io/badge/Github-0078D4?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🤝 Connect Me At
-[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nehasahu24)
+[![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nehasahu24/)
 [![Skill](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neha_sahu24/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NehaSahuji)
 
