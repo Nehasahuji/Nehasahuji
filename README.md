@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hello, I'm Neha Sahu
+👀 I'm interested in Full Stack Web-Development.
+🔭 I’m currently working on Java
+🌱 I’m currently learning angular
+👯 I’m looking to collaborate on cpp , Java , Html ,Css ,Angular ,Spring Boot,Jenkins
+📫 Reach me : [Here](www.linkedin.com/in/nehasahu24)
 
 <!--
 **Nehasahuji/Nehasahuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
