@@ -21,10 +21,10 @@
 
 ![Skill](https://img.shields.io/badge/Git-pink?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white)
-![Skill](https://img.shields.io/badge/Jenkins-ue?style=for-the-badge&logo=angular&logoColor=white)
+![Skill](https://img.shields.io/badge/Jenkins-ue?style=for-the-badge&logo=jenkins&logoColor=white)
  
-![Skill](https://img.shields.io/badge/Mysql-ffca28?style=for-the-badge&logo=angular&logoColor=white)
-![Skill](https://img.shields.io/badge/DB2-E34F26?style=for-the-badge&logo=angular&logoColor=white)
+![Skill](https://img.shields.io/badge/Mysql-ffca28?style=for-the-badge&logo=mysql&logoColor=white)
+![Skill](https://img.shields.io/badge/DB2-E34F26?style=for-the-badge&logo=db2&logoColor=white)
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehasahuji&langs_count=10&theme=synthwave&layout=compact" alt="Bernardo:: Top Langs" />
  
