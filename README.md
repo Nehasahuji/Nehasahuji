@@ -1,4 +1,4 @@
- ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Neha Sahu
+ ## <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Neha Sahu
  
  👀 I'm interested in Java Development.
  
@@ -10,11 +10,7 @@
 
   📫 Reach me : [Here](https://www.linkedin.com/in/nehasahu24/)
   
-  ## 👩‍🔧 My Works
-  [![Neha Sahu 📊 Github Stats](https://github-readme-stats.vercel.app/api?username=NehaSahuji&show_icons=true)](https://github.com/NehaSahuji)
-  
-  
-   ## My Skills
+  ## 📕 My Skills
 ![Skill](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Skill](https://img.shields.io/badge/C++-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
@@ -23,8 +19,21 @@
 ![Skill](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Skill](https://img.shields.io/badge/Angular-ffca28?style=for-the-badge&logo=angular&logoColor=white)
 
-![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Skill](https://img.shields.io/badge/Github-0078D4?style=for-the-badge&logo=github&logoColor=white)
+![Skill](https://img.shields.io/badge/Git-pink?style=for-the-badge&logo=git&logoColor=white)
+![Skill](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white)
+![Skill](https://img.shields.io/badge/Jenkins-ue?style=for-the-badge&logo=angular&logoColor=white)
+ 
+![Skill](https://img.shields.io/badge/Mysql-ffca28?style=for-the-badge&logo=angular&logoColor=white)
+![Skill](https://img.shields.io/badge/DB2-E34F26?style=for-the-badge&logo=angular&logoColor=white)
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehasahuji&langs_count=10&theme=synthwave&layout=compact" alt="Bernardo:: Top Langs" />
+ 
+ 
+  ## Profile stats 🎹
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=Nehasahuji&show_icons=true&theme=synthwave" alt="Nehasahuji :: Profile Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehasahuji&theme=synthwave" alt="Nehasahuji :: Profile Stats" />
+  
 
 ## 🤝 Connect Me At
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehasahu24/)
