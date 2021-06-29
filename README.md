@@ -26,13 +26,14 @@
 ![Skill](https://img.shields.io/badge/Mysql-ffca28?style=for-the-badge&logo=mysql&logoColor=white)
 ![Skill](https://img.shields.io/badge/DB2-E34F26?style=for-the-badge&logo=db2&logoColor=white)
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehasahuji&langs_count=10&theme=synthwave&layout=compact" alt="Bernardo:: Top Langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehasahuji&langs_count=10&theme=synthwave&layout=compact" alt="NehaSahuJi" />
  
  
   ## Profile stats 🎹
  
  <img src="https://github-readme-stats.vercel.app/api?username=Nehasahuji&show_icons=true&theme=synthwave" alt="Nehasahuji :: Profile Stats" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehasahuji&theme=synthwave" alt="Nehasahuji :: Profile Stats" />
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nehasahuji)
   
 
 ## 🤝 Connect Me At
