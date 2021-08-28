@@ -6,7 +6,7 @@
  
  🌱 I’m currently learning angular
  
- 👯 I’m looking to collaborate on cpp , Java , Html ,Css ,Angular ,Spring Boot ,Jenkins
+ 👯 I’m looking to collaborate on cpp , Java , Html ,Css ,Angular ,Spring Boot , Devops
 
   📫 Reach me : [Here](https://www.linkedin.com/in/nehasahu24/)
   
@@ -21,7 +21,7 @@
 
 ![Skill](https://img.shields.io/badge/Git-pink?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white)
-![Skill](https://img.shields.io/badge/Jenkins-ue?style=for-the-badge&logo=jenkins&logoColor=white)
+![Skill](https://img.shields.io/badge/Devops-ue?style=for-the-badge&logo=devops&logoColor=white)
  
 ![Skill](https://img.shields.io/badge/Mysql-ffca28?style=for-the-badge&logo=mysql&logoColor=white)
 ![Skill](https://img.shields.io/badge/DB2-E34F26?style=for-the-badge&logo=db2&logoColor=white)
